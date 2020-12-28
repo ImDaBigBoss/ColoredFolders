@@ -1,0 +1,12 @@
+C:\Users\alex\source\repos\ColoredFolders\ColoredFolders\bin\Debug\ColoredFolders.exe.config
+C:\Users\alex\source\repos\ColoredFolders\ColoredFolders\bin\Debug\ColoredFolders.exe
+C:\Users\alex\source\repos\ColoredFolders\ColoredFolders\bin\Debug\ColoredFolders.pdb
+C:\Users\alex\source\repos\ColoredFolders\ColoredFolders\obj\Debug\ColoredFolders.csprojAssemblyReference.cache
+C:\Users\alex\source\repos\ColoredFolders\ColoredFolders\obj\Debug\ColoredFolders.exe
+C:\Users\alex\source\repos\ColoredFolders\ColoredFolders\obj\Debug\ColoredFolders.pdb
+C:\Users\alex\Documents\C#\ColoredFolders\ColoredFolders\bin\Debug\ColoredFolders.exe.config
+C:\Users\alex\Documents\C#\ColoredFolders\ColoredFolders\bin\Debug\ColoredFolders.exe
+C:\Users\alex\Documents\C#\ColoredFolders\ColoredFolders\bin\Debug\ColoredFolders.pdb
+C:\Users\alex\Documents\C#\ColoredFolders\ColoredFolders\obj\Debug\ColoredFolders.csprojAssemblyReference.cache
+C:\Users\alex\Documents\C#\ColoredFolders\ColoredFolders\obj\Debug\ColoredFolders.exe
+C:\Users\alex\Documents\C#\ColoredFolders\ColoredFolders\obj\Debug\ColoredFolders.pdb
